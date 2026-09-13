@@ -7,4 +7,8 @@ const qBank = [
         options: ["Jaipur", "Jodhpur", "Udaipur", "Bikaner"], 
         answer: "Jaipur", 
     },
+    { id: 3, question: "Which river is known as the longest river in India?", 
+        options: ["Yamuna", "Godavari", "Ganga", "Narmada"], 
+        answer: "Ganga", 
+    },
 ]
