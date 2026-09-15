@@ -24,4 +24,9 @@ const qBank = [
         options: ["Jodhpur", "Udaipur", "Jaipur", "Ajmer"], 
         answer: "Jaipur", 
     },
+    { id: 6,
+        question: "Which monument is located in Delhi and was built by Shah Jahan?", 
+        options: ["Red Fort", "India Gate", "Qutub Minar", "Lotus Temple"], 
+        answer: "Red Fort", 
+    },
 ]
