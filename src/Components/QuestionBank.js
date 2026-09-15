@@ -11,4 +11,5 @@ const qBank = [
         options: ["Yamuna", "Godavari", "Ganga", "Narmada"], 
         answer: "Ganga", 
     },
+    { id: 4, question: "Where is the Taj Mahal located?", options: ["Delhi", "Agra", "Jaipur", "Lucknow"], answer: "Agra", },
 ]
