@@ -34,4 +34,9 @@ const qBank = [
         options: ["Nanda Devi", "Kanchenjunga", "Mount Everest", "Annapurna"], 
         answer: "Kanchenjunga", 
     },
+    { id: 8, 
+        question: "Which Indian city is famous for the Golden Temple?", 
+        options: ["Amritsar", "Chandigarh", "Ludhiana", "Patiala"], 
+        answer: "Amritsar", 
+    },
 ]
