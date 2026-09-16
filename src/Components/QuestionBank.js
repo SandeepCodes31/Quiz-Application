@@ -29,4 +29,9 @@ const qBank = [
         options: ["Red Fort", "India Gate", "Qutub Minar", "Lotus Temple"], 
         answer: "Red Fort", 
     },
+    { id: 7, 
+        question: "Which is the highest mountain peak in India?", 
+        options: ["Nanda Devi", "Kanchenjunga", "Mount Everest", "Annapurna"], 
+        answer: "Kanchenjunga", 
+    },
 ]
