@@ -39,4 +39,9 @@ const qBank = [
         options: ["Amritsar", "Chandigarh", "Ludhiana", "Patiala"], 
         answer: "Amritsar", 
     },
+    { id: 9, 
+        question: "What is the capital of West Bengal?", 
+        options: ["Darjeeling", "Kolkata", "Siliguri", "Howrah"], 
+        answer: "Kolkata", 
+    },
 ]
