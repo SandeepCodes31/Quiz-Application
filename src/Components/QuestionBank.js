@@ -49,5 +49,9 @@ const qBank = [
         options: ["Yamuna", "Ganga", "Godavari", "Krishna"], 
         answer: "Ganga", 
     },
-
+    { id: 11, 
+        question: "Which temple is famous for its Rath Yatra festival?", 
+        options: ["Jagannath Temple", "Meenakshi Temple", "Kedarnath Temple", "Somnath Temple"], 
+        answer: "Jagannath Temple", 
+    },
 ]
