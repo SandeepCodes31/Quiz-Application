@@ -44,4 +44,10 @@ const qBank = [
         options: ["Darjeeling", "Kolkata", "Siliguri", "Howrah"], 
         answer: "Kolkata", 
     },
+    { id: 10, 
+        question: "Which river flows through the city of Varanasi?", 
+        options: ["Yamuna", "Ganga", "Godavari", "Krishna"], 
+        answer: "Ganga", 
+    },
+
 ]
