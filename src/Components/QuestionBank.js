@@ -54,4 +54,6 @@ const qBank = [
         options: ["Jagannath Temple", "Meenakshi Temple", "Kedarnath Temple", "Somnath Temple"], 
         answer: "Jagannath Temple", 
     },
+    {
+     id: 12,
 ]
