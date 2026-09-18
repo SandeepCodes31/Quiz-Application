@@ -58,4 +58,6 @@ const qBank = [
      id: 12,
      question: "Which is the largest state in India by area?",
      options: ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+     answer: "Rajasthan", 
+    },
 ]
