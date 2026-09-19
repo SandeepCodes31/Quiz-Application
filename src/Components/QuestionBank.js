@@ -60,4 +60,6 @@ const qBank = [
      options: ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
      answer: "Rajasthan", 
     },
+    { 
+        id: 13,
 ]
