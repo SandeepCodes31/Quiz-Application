@@ -64,4 +64,5 @@ const qBank = [
         id: 13,
         question: "Where is the Gateway of India located?",
         options: ["Mumbai", "Kolkata", "Chennai", "Goa"],
+        answer: "Mumbai",
 ]
