@@ -62,4 +62,5 @@ const qBank = [
     },
     { 
         id: 13,
+        question: "Where is the Gateway of India located?",
 ]
