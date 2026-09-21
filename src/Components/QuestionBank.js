@@ -72,8 +72,11 @@ const qBank = [
         options: ["Kerala", "Goa", "Odisha", "Assam"],
     },
     {
-         id: 15,
-         question: "What is the capital of Gujarat?",
-
+        id: 15,
+        question: "What is the capital of Gujarat?",
+        options: ["Ahmedabad", "Surat", "Vadodara", "Gandhinagar"],
+        answer: "Gandhinagar",
+    },
+    
 ]
 
