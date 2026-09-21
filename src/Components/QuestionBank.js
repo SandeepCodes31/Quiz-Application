@@ -73,6 +73,7 @@ const qBank = [
     },
     {
          id: 15,
+         question: "What is the capital of Gujarat?",
 
 ]
 
