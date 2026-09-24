@@ -77,6 +77,7 @@ const qBank = [
         options: ["Ahmedabad", "Surat", "Vadodara", "Gandhinagar"],
         answer: "Gandhinagar",
     },
-    
+    { 
+        id: 16,
 ]
 
