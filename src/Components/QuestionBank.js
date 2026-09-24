@@ -83,5 +83,7 @@ const qBank = [
         options: ["Red Fort", "Taj Mahal", "Qutub Minar", "Charminar"],
         answer: "Taj Mahal", 
     },
+    { 
+        id: 17,
 ]
 
