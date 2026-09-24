@@ -81,5 +81,7 @@ const qBank = [
         id: 16,
         question: "Which monument is also known as the 'Symbol of Love'?",
         options: ["Red Fort", "Taj Mahal", "Qutub Minar", "Charminar"],
+        answer: "Taj Mahal", 
+    },
 ]
 
