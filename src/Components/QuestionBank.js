@@ -79,5 +79,6 @@ const qBank = [
     },
     { 
         id: 16,
+        question: "Which monument is also known as the 'Symbol of Love'?",
 ]
 
